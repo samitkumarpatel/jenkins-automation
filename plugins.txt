@@ -115,3 +115,4 @@ blueocean-events
 blueocean-pipeline-editor
 blueocean-i18n
 blueocean
+configuration-as-code
