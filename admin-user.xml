@@ -1,0 +1,7 @@
+<com.cloudbees.plugins.credentials.impl.UsernamePasswordCredentialsImpl>
+  <scope>GLOBAL</scope>
+  <id>admin-credentials</id>
+  <description>Admin User Credentials</description>
+  <username>admin_user</username>
+  <password>admin_password</password>
+</com.cloudbees.plugins.credentials.impl.UsernamePasswordCredentialsImpl>
